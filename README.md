@@ -1,5 +1,5 @@
 
-<p><div align="center"><h3>👋 Hello! I'm Shreyansh.</h3>
+<p><div align="center">👋 Hello! I'm Shreyansh
 <img src="https://github.com/shreyanshsatvik/shreyanshsatvik/blob/main/hello.gif" width="120" height="120" align="left" alt="Hello" />
 </div></p>
 <br>
