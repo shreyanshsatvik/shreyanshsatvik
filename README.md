@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <h3>Let's Connect: </h3>
 <p align =" center"><img src="https://github.com/shreyanshsatvik/shreyanshsatvik/blob/main/connect.gif" height="130px" width="300px" ></p?
 <p align="center">
+<br>
 <a href="https://twitter.com/shreyanshsatvik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shreyanshsatvik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shreyansh-satvik-a45343189" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shreyansh-satvik-a45343189" height="30" width="40" /></a>
 <a href="https://fb.com/shreyanshsatvik08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shreyanshsatvik08" height="30" width="40" /></a>
