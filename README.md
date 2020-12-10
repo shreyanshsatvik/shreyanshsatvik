@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 <br><br>
 <h3>Let's Connect: </h3>
-<p align =" center"><img src="https://github.com/shreyanshsatvik/shreyanshsatvik/blob/main/connect.gif" height="130px" width="300px" ></p?
+<p align =" center"><img src="https://github.com/shreyanshsatvik/shreyanshsatvik/blob/main/connect.gif" height="130px" width="300px"></p>
 <p align="center">
 <br>
 <a href="https://twitter.com/shreyanshsatvik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shreyanshsatvik" height="30" width="40" /></a>
@@ -38,6 +38,16 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<br>
+<h3>Ongoing Projects:</h3>
+<img src="https://github.com/shreyanshsatvik/shreyanshsatvik/blob/main/coderman.gif" height="130px" width="300px" align="left">
+<li>
+  <ol><a href="https://github.com/shreyanshsatvik/smartlens">Smartlens</a></ol>
+  <ol><a href="https://github.com/shreyanshsatvik/mediapipe">Mediapipe</a></ol>
+  </li>
+<br>
+
+<br>
 <br>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shreyanshsatvik&show_icons=true&theme=gotham&count_private=true&show_icons=true&include_all_commits=true" alt="shreyanshsatvik" /></p>
 
