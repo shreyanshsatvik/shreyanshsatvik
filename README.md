@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 <h3>Ongoing Projects:</h3>
 <img src="https://github.com/shreyanshsatvik/shreyanshsatvik/blob/main/coderman.gif" height="130px" width="300px" align="left">
 <li>
-  <ol><a href="https://github.com/shreyanshsatvik/smartlens">Smartlens</a></ol>
-  <ol><a href="https://github.com/shreyanshsatvik/mediapipe">Mediapipe</a></ol>
+  <ul><a href="https://github.com/shreyanshsatvik/smartlens">Smartlens</a></ul>
+  <ul><a href="https://github.com/shreyanshsatvik/mediapipe">Mediapipe</a></ul>
   </li>
 <br>
 
