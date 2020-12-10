@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align="center">
+<img src="https://github.com/shreyanshsatvik/shreyanshsatvik/blob/main/hello.gif" width="120" height="120 alt="Hello" />
+</div>
+
+
+
 
 <!--
 **shreyanshsatvik/shreyanshsatvik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
