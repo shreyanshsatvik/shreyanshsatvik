@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 -->
 <br><br>
 <h3>Let's Connect: </h3>
-<p align =" center"><img src="https://github.com/shreyanshsatvik/shreyanshsatvik/blob/main/connect.gif" height="130px" width="300px"></p>
 <p align="center">
 <br>
 <a href="https://twitter.com/shreyanshsatvik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shreyanshsatvik" height="30" width="40" /></a>
