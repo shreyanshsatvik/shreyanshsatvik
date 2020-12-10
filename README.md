@@ -23,7 +23,15 @@ Here are some ideas to get you started:
 -->
 <br><br>
 <h3>Let's Connect: </h3>
-<p align =" center"><img src="https://github.com/shreyanshsatvik/shreyanshsatvik/blob/main/connect.gif" align="centre" height="150px" width="400px" ></p?
+<p align =" center"><img src="https://github.com/shreyanshsatvik/shreyanshsatvik/blob/main/connect.gif" height="130px" width="300px" ></p?
+<p align="center">
+<a href="https://twitter.com/shreyanshsatvik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shreyanshsatvik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shreyansh-satvik-a45343189" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shreyansh-satvik-a45343189" height="30" width="40" /></a>
+<a href="https://fb.com/shreyanshsatvik08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shreyanshsatvik08" height="30" width="40" /></a>
+<a href="https://instagram.com/shreyanshsatvik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shreyanshsatvik" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shreyansh_satvi1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shreyansh_satvi1" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shreyanshsatvik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="shreyanshsatvik" height="30" width="40" /></a>
+</p>
 <br><br>
 <h4>Tech Stack:</h4>
 
