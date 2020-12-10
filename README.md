@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 -->
 <br><br>
 <h3>Let's Connect: </h3>
-<img src="https://github.com/shreyanshsatvik/shreyanshsatvik/blob/main/connect.gif" align="center" height="200px" width="400px">
+<p align =" center"><img src="https://github.com/shreyanshsatvik/shreyanshsatvik/blob/main/connect.gif" align="centre" height="150px" width="400px" ></p?
 <br><br>
 <h4>Tech Stack:</h4>
 
