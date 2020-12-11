@@ -2,7 +2,7 @@
 <img src="https://github.com/shreyanshsatvik/shreyanshsatvik/blob/main/hello.gif" width="120" height="120" align="left" alt="Hello" />
 
 <h3>Hey there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
-Hi I'm a pre-final year student of Vellore Institute of Technology, Vellore. A frustrated engineer in making who loves to contribute on open source projects and is always keen to work on something new.
+Hi I'm a student of Vellore Institute of Technology, Vellore. A frustrated engineer in making who loves to contribute on open source projects and is always keen to work on something new.
 
 
 <!--
