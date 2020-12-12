@@ -47,8 +47,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/shreyansh-satvik-a45343189" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shreyansh-satvik-a45343189" height="30" width="40" /></a>
 <a href="https://fb.com/shreyanshsatvik08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shreyanshsatvik08" height="30" width="40" /></a>
 <a href="https://instagram.com/shreyanshsatvik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shreyanshsatvik" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/shreyansh_satvi1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="shreyansh_satvi1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shreyanshsatvik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="shreyanshsatvik" height="30" width="40" /></a>
+
 </p>
 <br>
 <p align="center">
