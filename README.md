@@ -44,10 +44,17 @@ Here are some ideas to get you started:
 
 <p align="center">
 <br>
-<a href="https://twitter.com/shreyanshsatvik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shreyanshsatvik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shreyansh-satvik-a45343189" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shreyansh-satvik-a45343189" height="30" width="40" /></a>
-<a href="https://fb.com/shreyanshsatvik08" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="shreyanshsatvik08" height="30" width="40" /></a>
-<a href="https://instagram.com/shreyanshsatvik" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="shreyanshsatvik" height="30" width="40" /></a>
+<a href="https://twitter.com/shreyanshsatvik">
+      <img src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white" />
+ <a href="https://www.linkedin.com/in/shreyansh-satvik-a45343189/">
+     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <a href="https://leetcode.com/frustrated_programmer/">
+     <img src="https://img.shields.io/badge/-Leetcode-a9b74d?style=for-the-badge&logo=Leetcode&logoColor=white" />
+  <a href="https://auth.geeksforgeeks.org/user/shreyanshsatvik/practice/">
+     <img src="https://img.shields.io/badge/-GeeksforGeeks-2f8d46?style=for-the-badge&logo=Geeksforgeeks&logoColor=white" />
+   <a href="https://www.hackerrank.com/shreyansh_satvi1">
+     <img src="https://img.shields.io/badge/-Hackerrank-2ec866?style=for-the-badge&logo=Hackerrank&logoColor=white" />
+   
 
 </p>
 <br>
