@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 </p>
 <br>
 <p align="center">
-Visitor count<br><img src="https://profile-counter.glitch.me/shreyanshsatvik/count.svg" /></p>
+ <h3 align="center">Visitor count<br><img src="https://profile-counter.glitch.me/shreyanshsatvik/count.svg" /></p>
 
 
