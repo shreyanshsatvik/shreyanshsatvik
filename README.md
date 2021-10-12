@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <br>
 <a href="https://twitter.com/SatvikShreyansh">
       <img src="https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white" />
- <a href="https://www.linkedin.com/in/shreyansh-satvik-a45343189/">
+ <a href="https://www.linkedin.com/in/shreyanshsatvik/">
      <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" />
 
 
